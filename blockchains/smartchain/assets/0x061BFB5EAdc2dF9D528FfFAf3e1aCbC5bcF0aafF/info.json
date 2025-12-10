@@ -1,0 +1,11 @@
+{
+  "name": "Tather USD Bridged ZET . 20",
+  "symbol": "USDT.z",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Tather USD Bridged ZET . 20 is a bridged stable-token for the Zeon Trust ecosystem.",
+  "website": "https://zeontrust.net",
+  "explorer": "https://bscscan.com/token/0x061BFB5EAdc2dF9D528FfFAf3e1aCbC5bcF0aafF",
+  "status": "active",
+  "id": "0x061BFB5EAdc2dF9D528FfFAf3e1aCbC5bcF0aafF"
+}
