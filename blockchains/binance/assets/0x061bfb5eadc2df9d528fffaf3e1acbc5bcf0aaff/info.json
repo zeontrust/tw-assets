@@ -1,0 +1,9 @@
+{
+  "name": "Tather USD Bridged ZET . 20",
+  "symbol": "USDT.z",
+  "decimals": 18,
+  "description": "Tather USD Bridged ZET . 20 (USDT.z) is a BEP-20 token on BNB Smart Chain.",
+  "website": "https://zeontrust.net",
+  "explorer": "https://bscscan.com/token/0x061bfb5eadc2df9d528fffaf3e1acbc5bcf0aaff",
+  "status": "active"
+}
